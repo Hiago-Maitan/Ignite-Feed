@@ -13,10 +13,8 @@ export default function Sidebar() {
     
     <div className={styles.profile}>
     <img className={styles.avatar} src="https://github.com/Hiago-Maitan.png"/>
-
       <strong>Hiago Maitan</strong>
       <span>Front-End Developer</span>
-
       <footer>
         <a href="#">
           <PencilLine size={20}/>
